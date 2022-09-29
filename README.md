@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Andeka27
+- 👋 Hi, I’m Andeka Faith
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning at Mount Kenya University,Thika
+- 💞️ I’m looking to collaborate on software and system development
 - 📫 How to reach me fandeka27@gmail.com
 
 <!---
